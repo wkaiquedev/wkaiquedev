@@ -1,5 +1,5 @@
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=wkaiquedev&show_icons=true&theme=dracula" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=wkaiquedev&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wkaiquedev&layout=compact&theme=dracula" />
 </p>
 
