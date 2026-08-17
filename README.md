@@ -75,5 +75,4 @@
 </p>
 
 <p align="center">
-  <i>⭐️ Feito com dedicação — sinta-se à vontade para explorar meus repositórios!</i>
 </p>
