@@ -47,10 +47,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkaiquedev&theme=tokyonight&hide_border=true" />
 </p>
 
-> ⚠️ Troque **SEU_USUARIO** pelo seu nome de usuário do GitHub nos links acima para as estatísticas funcionarem.
+
 
 ---
 
