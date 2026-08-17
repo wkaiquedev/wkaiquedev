@@ -2,9 +2,11 @@
 
 
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" />
+</p>
 
-[![](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
