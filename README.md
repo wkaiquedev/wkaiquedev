@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Winter.gif" alt="wkaiquedev" width="100%" />
+  <img src="./assets/Winter1.gif" alt="wkaiquedev" width="100%" />
 </p>
 
 <p align="center">
