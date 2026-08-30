@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/globo.jpg" alt="wkaiquedev" width="100%" />
+  <img src="./assets/banner.png" alt="wkaiquedev" width="736" />
 </p>
 
 <p align="center">
-  Foco em C++ e programação de baixo nível, com interface desenhada na mão em Dear ImGui.<br>
+  Foco em C++ e programação de baixo nível.<br>
   Também construo aplicação web full-stack com LLM integrada.
 </p>
 
@@ -41,8 +41,10 @@
   <a href="https://github.com/wkaiquedev">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
-
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
- 
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
