@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  Foco em C++ e programação de baixo nível.<br>
-  Também construo aplicação web full-stack com LLM integrada.
+
 </p>
 
 <br>
